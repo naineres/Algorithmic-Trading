@@ -11,12 +11,12 @@ Evaluating the variance explained by each component
 Determining the number of components necessary to explain a significant portion of the variance (75% and 80% thresholds)
 
 ## Project: Integrating Pair Trading with PCA
-The project combines pair trading with PCA insights to enhance the trading strategy. Following the assignment instructions provided, the project will:
+Following the assignment instructions provided, the project will:
 
-Load a specified dataset and perform PCA to extract the main components.
-Calculate and display the loadings for the first six components.
-Determine the minimum number of components needed to explain a substantial amount of variance.
-Analyze the cumulative returns of the principal components.
-Conduct regression analysis for each factor against the principal components and assess the best-explained factors by each component.
-Study traditional assets by loading another dataset and computing correlations with the principal components.
-Visualize the results through scatter plots and correlate traditional assets with the principal components.
+- Load a specified dataset and perform PCA to extract the main components.
+- Calculate and display the loadings for the first six components.
+- Determine the minimum number of components needed to explain a substantial amount of variance.
+- Analyze the cumulative returns of the principal components.
+- Conduct regression analysis for each factor against the principal components and assess the best-explained factors by each component.
+- Study traditional assets by loading another dataset and computing correlations with the principal components.
+- Visualize the results through scatter plots and correlate traditional assets with the principal components.
