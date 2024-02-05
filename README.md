@@ -10,7 +10,7 @@ Analyzing the loadings of principal components to understand the underlying fact
 Evaluating the variance explained by each component
 Determining the number of components necessary to explain a significant portion of the variance (75% and 80% thresholds)
 
-## Project: Integrating Pair Trading with PCA
+## Project
 Following the assignment instructions provided, the project will:
 
 - Load a specified dataset and perform PCA to extract the main components.
